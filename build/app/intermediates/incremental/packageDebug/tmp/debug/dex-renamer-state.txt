@@ -1,0 +1,4 @@
+#Mon Jan 27 14:34:20 BRST 2020
+base.0=/mnt/146EC44B6EC42778/Users/Henrique/FlutterProjects/balta.io/imc/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
